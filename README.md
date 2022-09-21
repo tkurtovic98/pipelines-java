@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tk50908/TestPipelines/_apis/build/status/tkurtovic98.pipelines-java?branchName=main)](https://dev.azure.com/tk50908/TestPipelines/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
